@@ -85,6 +85,16 @@ A recipe discovery platform with structured categories and user-friendly UI.
 ### 🔐 Password Manager
 A secure application for storing and managing user credentials safely.
 
+### 😷 Face Mask Detection AI
+
+An AI-based computer vision model that detects whether a person is wearing a face mask or not in real time.
+It classifies faces into “Mask” and “No Mask” categories using image/video input and can be used for public safety monitoring systems.
+
+### 🛣️ Road Issue Detection AI
+
+An AI model designed to identify and detect road-related issues such as potholes, damage, and surface irregularities from images or video frames.
+It helps in automating road inspection and can support smart city infrastructure and maintenance systems.
+
 ---
 
 # 📊 GitHub Stats
