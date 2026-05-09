@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sania Salahuddin</h1>
 
 <h3 align="center">
-🚀 MERN Stack Developer | 🎨 Graphic Designer | 🤖 Machine Learning Enthusiast
+🚀 MERN Stack Developer | 🎨 Graphic Designer | 🤖 Machine Learning Enthusiast | 🎓 Software Engineering Student
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Software+Engineering+Student;MERN+Stack+Developer;Graphic+Designer;Machine+Learning+Learner;AI+Enthusiast;Building+Creative+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+Scalable+Web+Applications;Designing+Modern+UI%2FUX;Training+Machine+Learning+Models;Turning+Ideas+Into+Real-World+Projects+🚀" />
 </p>
 
 ---
@@ -14,30 +14,25 @@
 
 # 👩‍💻 About Me
 
-🎓 Software Engineering Student passionate about technology and innovation  
+I am a **Software Engineering student** passionate about building impactful digital products that combine functionality, design, and intelligence.
 
-💻 MERN Stack Developer building modern and interactive web applications  
-
-🎨 Graphic Designer who loves creating creative and user-friendly designs  
-
-🤖 Currently learning Machine Learning and AI Model Training  
-
-📚 Improving my DSA and problem-solving skills  
-
-🚀 Interested in Full Stack Development, Artificial Intelligence & Creative Technologies  
-
-⚡ Love transforming ideas into real-world digital experiences  
+- 💻 MERN Stack Developer specializing in full-stack web applications  
+- 🎨 Graphic Designer with a focus on clean and user-centered UI/UX  
+- 🤖 Currently learning Machine Learning and model training techniques  
+- 📚 Strong interest in Data Structures, Algorithms, and problem-solving  
+- 🚀 Passionate about turning ideas into scalable real-world solutions  
+- ⚡ Always exploring new technologies and improving my skills  
 
 ---
 
 # 🚀 Tech Stack
 
-## 💻 Frontend
+## 💻 Frontend Development
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </p>
 
-## ⚙️ Backend
+## ⚙️ Backend Development
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
@@ -47,7 +42,7 @@
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-## 🤖 Machine Learning
+## 🤖 Machine Learning & Programming
 <p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
@@ -66,30 +61,29 @@
 
 # 🌱 Currently Learning
 
-- 🤖 Machine Learning & AI
-- 🧠 Training AI Models
-- ⚡ Advanced MERN Stack Concepts
-- 📚 Data Structures & Algorithms
-- ☁️ Deployment & Cloud Technologies
+- 🤖 Machine Learning & AI Model Training  
+- ⚡ Advanced MERN Stack Architecture  
+- 📚 Data Structures & Algorithms (Problem Solving)  
+- ☁️ Deployment, Cloud Services & Scalability  
 
 ---
 
 # 🚀 Featured Projects
 
-## 🎮 JavaScript Games
-Built multiple fun and interactive browser games using JavaScript.
+### 🎮 JavaScript Games
+A collection of interactive browser-based games built using JavaScript, focusing on logic, animation, and user interaction.
 
-## 💬 ZapChat
-A modern real-time chat application for seamless communication.
+### 💬 ZapChat
+A real-time chat application with modern UI and instant messaging features.
 
-## 📰 Aural News
-A news platform delivering updates with a clean and modern UI.
+### 📰 Aural News
+A clean and responsive news platform providing categorized and real-time updates.
 
-## 🍳 Cooking Recipe Website
-Recipe-sharing platform with attractive UI and categorized recipes.
+### 🍳 Cooking Recipe Website
+A recipe discovery platform with structured categories and user-friendly UI.
 
-## 🔐 Password Manager
-Secure password manager for storing and managing credentials safely.
+### 🔐 Password Manager
+A secure application for storing and managing user credentials safely.
 
 ---
 
@@ -119,12 +113,12 @@ Secure password manager for storing and managing credentials safely.
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/SaniaSalahuddin" target="blank">
+<p align="center">
+<a href="https://github.com/SaniaSalahuddin">
 <img src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
 
-<a href="https://www.linkedin.com/in/sania-salahuddin-1a4781324/" target="blank">
+<a href="https://www.linkedin.com/in/sania-salahuddin-1a4781324/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
@@ -135,20 +129,21 @@ Secure password manager for storing and managing credentials safely.
 
 ---
 
-# ✨ Fun Fact
+# ✨ Developer Philosophy
 
 ```javascript
 const sania = {
-    code: ["JavaScript", "Python", "C++"],
-    technologies: ["MERN Stack", "Machine Learning", "Graphic Designing"],
-    projects: [
-        "JavaScript Games",
-        "ZapnChat",
-        "Aural News",
-        "Cooking Recipe Website",
-        "Password Manager"
-    ],
-    currentFocus: "Building AI-powered Full Stack Applications 🚀"
+  role: "Software Engineering Student",
+  expertise: ["MERN Stack", "Graphic Design", "Machine Learning"],
+  mindset: "Learn → Build → Improve → Repeat",
+  goal: "To build impactful and intelligent digital solutions 🚀",
+  projects: [
+    "JavaScript Games",
+    "ZapChat",
+    "Aural News",
+    "Cooking Recipe Website",
+    "Password Manager"
+  ]
 };
 ```
 
@@ -161,5 +156,5 @@ const sania = {
 ---
 
 <h3 align="center">
-⭐ Code • Design • Innovate ⭐
+⭐ Building, Designing & Innovating the Future ⭐
 </h3>
